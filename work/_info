@@ -1,0 +1,204 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples/cordic
+T_opt
+!s110 1595521054
+V@<hQ[9`=1BNZg=D]ahLfP2
+04 9 4 work Cordic_tb fast 0
+=1-1831bf434029-5f19b81e-1b2-1678
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1596475781
+VjHF7j4]Ini9c>VkRjLEaV1
+04 14 4 work Cordic_tb_test fast 0
+=1-1831bf434029-5f284985-19c-22f0
+R1
+R2
+n@_opt1
+R3
+vCircular_Rom_test
+!s110 1596475342
+!i10b 1
+!s100 AJbQ3TgaL6MoJMST9UJSZ0
+I`Q`ZJZccjIeLnTQd^[E:62
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1596088612
+8C:/modeltech64_10.6d/examples/cordic/Circular_Rom_test.v
+FC:/modeltech64_10.6d/examples/cordic/Circular_Rom_test.v
+L0 1
+Z5 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z6 !s108 1596475342.000000
+!s107 C:/modeltech64_10.6d/examples/cordic/Circular_Rom_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/cordic/Circular_Rom_test.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@circular_@rom_test
+vCordic_core_test
+Z8 !s110 1596475343
+!i10b 1
+!s100 S5BYIz2Iz2UkQ;G7d[djC2
+IbfKggSSH^m^OQ8QWTlhP_3
+R4
+R0
+w1596110346
+8C:/modeltech64_10.6d/examples/cordic/Cordic_core_test.v
+FC:/modeltech64_10.6d/examples/cordic/Cordic_core_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z9 !s108 1596475343.000000
+!s107 C:/modeltech64_10.6d/examples/cordic/Cordic_core_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/cordic/Cordic_core_test.v|
+!i113 0
+R7
+R2
+n@cordic_core_test
+vCordic_tb
+!s110 1595521043
+!i10b 1
+!s100 L]N?>B>`YSHab;IoTQKGj3
+I>>R_C^cD_a60SVg>Xz3Li3
+R4
+R0
+w1595521036
+Z10 8C:/modeltech64_10.6d/examples/cordic/Cordic_tb_test.v
+Z11 FC:/modeltech64_10.6d/examples/cordic/Cordic_tb_test.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1595521042.000000
+Z12 !s107 C:/modeltech64_10.6d/examples/cordic/Cordic_tb_test.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/cordic/Cordic_tb_test.v|
+!i113 0
+R7
+R2
+n@cordic_tb
+vcordic_tb
+!s110 1595520646
+!i10b 1
+!s100 >Ocl@6P@MG[dg9zF82Ki@0
+ImDhc6UVOYNY?d]73>[3>e1
+R4
+R0
+w1595520327
+R10
+R11
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1595520646.000000
+R12
+R13
+!i113 0
+R7
+R2
+vCordic_tb_test
+!s110 1596475765
+!i10b 1
+!s100 cJDgVWjkL5iLNA4h2]WJT2
+I>1^DSXn26XPTJS^^VfO=70
+R4
+R0
+w1596475746
+R10
+R11
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1596475765.000000
+R12
+R13
+!i113 0
+R7
+R2
+n@cordic_tb_test
+vCordic_test
+R8
+!i10b 1
+!s100 zT<>BgTdVZE[L58OF?Xmk1
+IQSndc=J6bFPIh<Ml[hhYV3
+R4
+R0
+w1596088351
+8C:/modeltech64_10.6d/examples/cordic/Cordic_test.v
+FC:/modeltech64_10.6d/examples/cordic/Cordic_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/modeltech64_10.6d/examples/cordic/Cordic_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/cordic/Cordic_test.v|
+!i113 0
+R7
+R2
+n@cordic_test
+vHyperbolic_Rom_test
+R8
+!i10b 1
+!s100 bC`66KAngGQ01nmafIfOe0
+Ia]=[R9Hh2e8jX6DFGGE661
+R4
+R0
+w1596088575
+8C:/modeltech64_10.6d/examples/cordic/Hyperbolic_Rom_test.v
+FC:/modeltech64_10.6d/examples/cordic/Hyperbolic_Rom_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/modeltech64_10.6d/examples/cordic/Hyperbolic_Rom_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/cordic/Hyperbolic_Rom_test.v|
+!i113 0
+R7
+R2
+n@hyperbolic_@rom_test
+vLinear_Rom_test
+R8
+!i10b 1
+!s100 ]ZXK3RE1U4@iSQ6G`J;<?2
+Inec4<Ln@CX;`>6fFPH8U31
+R4
+R0
+w1595520084
+8C:/modeltech64_10.6d/examples/cordic/Linear_Rom_test.v
+FC:/modeltech64_10.6d/examples/cordic/Linear_Rom_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/modeltech64_10.6d/examples/cordic/Linear_Rom_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/cordic/Linear_Rom_test.v|
+!i113 0
+R7
+R2
+n@linear_@rom_test

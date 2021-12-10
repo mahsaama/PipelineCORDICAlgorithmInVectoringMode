@@ -1,0 +1,43 @@
+C:/modeltech64_10.6d/examples/cordic/Circular_Rom_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/cordic/Circular_Rom_test.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Circular_Rom_test
+
+Top level modules:
+	Circular_Rom_test
+
+} {} {}} C:/modeltech64_10.6d/examples/cordic/Hyperbolic_Rom_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/cordic/Hyperbolic_Rom_test.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Hyperbolic_Rom_test
+
+Top level modules:
+	Hyperbolic_Rom_test
+
+} {} {}} C:/modeltech64_10.6d/examples/cordic/Cordic_core_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/cordic/Cordic_core_test.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Cordic_core_test
+
+Top level modules:
+	Cordic_core_test
+
+} {} {}} C:/modeltech64_10.6d/examples/cordic/Linear_Rom_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/cordic/Linear_Rom_test.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Linear_Rom_test
+
+Top level modules:
+	Linear_Rom_test
+
+} {} {}} C:/modeltech64_10.6d/examples/cordic/Cordic_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/cordic/Cordic_test.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Cordic_test
+
+Top level modules:
+	Cordic_test
+
+} {} {}} C:/modeltech64_10.6d/examples/cordic/Cordic_tb_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/cordic/Cordic_tb_test.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Cordic_tb_test
+
+Top level modules:
+	Cordic_tb_test
+
+} {} {}}

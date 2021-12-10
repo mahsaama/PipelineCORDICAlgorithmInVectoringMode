@@ -1,0 +1,15 @@
+DSD_Project
+------------------------------------------------------
+The current module name is = Cordic_tb_test
+Clock period is: 20 in the mentioned time unit
+Clock frequency is: 50 MHz
+Simulation started...
+
+@           0.0000 ns:  xin =      x,  zin =      0 , xout =      x, yout =      x
+@          10.0000 ns:  xin =      x,  zin =      0 , xout =      0, yout =      0
+@          20.0000 ns:  xin =      x,  zin =  25736 , xout =      0, yout =      0
+@         330.0000 ns:  xin =      x,  zin =  25736 , xout =      2, yout =  16383
+@         350.0000 ns:  xin =      x,  zin =  25736 , xout =      0, yout =      0
+@         440.0000 ns:  xin =      x,  zin =  12868 , xout =      0, yout =      0
+@         750.0000 ns:  xin =      x,  zin =  12868 , xout =  11586, yout =  11585
+@         770.0000 ns:  xin =      x,  zin =  12868 , xout =      0, yout =      0
